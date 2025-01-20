@@ -36,7 +36,7 @@
 
 ```bash
 GLADOS_COOKIE=你的GLaDOS Cookie
-PUSHPLUS_TOKEN=你的PushPlus Token
+PUSHPLUS_TOKEN=你的PushPlus Token         非必要只是用来通知签到结果
 ```
 
 多账号配置时使用 & 分隔 Cookie：
