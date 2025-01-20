@@ -78,4 +78,4 @@ cookie1&cookie2&cookie3
 
 ## 个人tg频道
 
-ot.me/Langkingm
+t.me/Langkingm
