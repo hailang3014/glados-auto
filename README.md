@@ -1,6 +1,8 @@
 # glados-auto
 # GLaDOS-Checkin-Worker
 
+- 此项目修改于https://github.com/domeniczz/GLaDOS_checkin_auto?tab=readme-ov-file
+
 🚀 基于 Cloudflare Workers 的 GLaDOS 自动签到脚本
 
 ## 功能特点
@@ -76,4 +78,3 @@ cookie1&cookie2&cookie3
 
 ## 个人tg频道
    - ( https://t.me/Langkingm ）
-   - 此项目来来自
