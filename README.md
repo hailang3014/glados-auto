@@ -77,4 +77,5 @@ cookie1&cookie2&cookie3
 - [pushplus](http://www.pushplus.plus/)
 
 ## 个人tg频道
-   - ( https://t.me/Langkingm ）
+
+ot.me/Langkingm
