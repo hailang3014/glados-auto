@@ -73,9 +73,3 @@ cookie1&cookie2&cookie3
 
 - [GLaDOS](https://github.com/glados-network/GLaDOS)
 - [pushplus](http://www.pushplus.plus/)
-
-## License
-
-MIT License
-
-Copyright (c) 2024 Your Name
